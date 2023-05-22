@@ -1,0 +1,2 @@
+cls
+nodemon index.js
